@@ -1,0 +1,21 @@
+{
+  "name": "horizonScroll",
+  "version": "1.0.0",
+  "authors": [
+    "@trgraglia"
+  ],
+  "description": "Horizontal Scrolling (Paging) Websites",
+  "main": "jquery.horizonScroll.js",
+  "license": "MIT",
+  "homepage": "https://github.com/guizmo/jquery.horizonScroll.js",
+  "dependencies": {
+    "jquery": "~1.11.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
